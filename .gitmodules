@@ -1,0 +1,3 @@
+[submodule "Build/slate"]
+	path = Build/slate
+	url = git@github.com:Shopify/slate.git
