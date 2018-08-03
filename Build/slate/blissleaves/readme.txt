@@ -9,7 +9,7 @@ SLATE_STORE=
 SLATE_PASSWORD=
 
 # The ID of the theme you wish to upload files to 
-# Go to your shopify <store_url>/admin/themes.xml to get ID
+# Go to your shopify <store_url>/admin/themes.xml to get ID from <id> </id> tag
 SLATE_THEME_ID=
 
 # A list of file patterns to ignore, with each list item separated by ':' 
