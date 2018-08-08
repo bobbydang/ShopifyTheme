@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c141656-1cb1-4455-95ff-c5cec1303206</dc:identifier>
+        <dc:title>Head First JavaScript Programming</dc:title>
+        <dc:creator opf:file-as="Eric Freeman, Elisabeth Robson" opf:role="aut">Eric Freeman, Elisabeth Robson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.32.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-04-09T18:30:00+00:00</dc:date>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Javascript</dc:subject>
+        <dc:subject>O'Reilly</dc:subject>
+        <dc:subject>Web Development</dc:subject>
+        <meta content="{&quot;Eric Freeman, Elisabeth Robson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="0101-01-01T00:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Head First JavaScript Programming" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Head First JavaScript Programming - Eric Freeman, Elisabeth Robson.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
